@@ -3,7 +3,11 @@
 """\
 Created on Tue May  9 15:14:52 2017\
 @author: Robbie Cunningham\
-"""\
+"""
+\
+\
+\
+This short program models the trajectory of a variable number of autonomous mobile agents based off your choice of the following: number of agents, starting positions, network topology (graph-theoretic), power threshold (e.g. voltage limit), and two conflicting gains (how strongly agents want to swarm together vs. how strongly they want to minimize some cost function (which in this case amounts to "heading toward the origin").
 \
 \
 """preliminaries"""\
